@@ -1,7 +1,8 @@
 ### Hi there, I'm Louay Beltifa 👋 
 ![](https://komarev.com/ghpvc/?username=LouayBeltifa)
 
-## I'm a Student And Web Developer!
+## About Me
+I'm a Master's degree student and a full-stack JavaScript web developer with over 2 years of experience in building web applications using frameworks like Vue, Angular, Node.js, and Express. I also have strong skills in CSS and UI/UX design.
 
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with others.
